@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Ship.cpp
+c:\users\evestus\desktop\battleshipgame-hovig\battleship\ship.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameWorld.cpp
+  Generating Code...
+  BattleShip.vcxproj -> C:\Users\Evestus\Desktop\BattleShipGame-Hovig\Debug\BattleShip.exe
